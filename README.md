@@ -1,1 +1,1 @@
-# SpringBoot-API
+# SpringBoot-Hotel-API
